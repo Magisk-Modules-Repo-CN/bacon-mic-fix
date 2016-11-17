@@ -1,4 +1,4 @@
-# OnePlus One Mic Fix
+# OnePlus One (bacon) Mic Fix
 Fixes in call Mic issues that have plagued some Bacon users by modifying build.prop
 
 Note: This may not work for everyone!
