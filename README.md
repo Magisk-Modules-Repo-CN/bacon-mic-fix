@@ -5,20 +5,20 @@ Fixes in call Mic issues that have plagued some Bacon users by modifying build.p
 Note: This may not work for everyone!
 
 
-# How it works
+## How it works
 
-Modifies the build.prop file by removing the following line:
+* Modifies the build.prop file by removing the following line:
 
 ro.qc.sdk.audio.fluencetype=fluence
 
-Then adding these lines:
+* Then adding these lines:
 
 persist.audio.fluence.voicerec=true
 persist.audio.fluence.speaker=false
 use.voice.path.for.pcm.voip=true
 
 
-# Updates
+## Updates
 
 v1
-    - Initial Release
+* Initial Release
