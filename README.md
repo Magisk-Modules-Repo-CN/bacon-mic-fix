@@ -7,11 +7,11 @@ Note: This may not work for everyone!
 
 ## How it works
 
-* Modifies the build.prop file by removing the following line:
+Modifies the build.prop file by removing the following line:
 
 ro.qc.sdk.audio.fluencetype=fluence
 
-* Then adding these lines:
+Then adding these lines:
 
 persist.audio.fluence.voicerec=true  
 persist.audio.fluence.speaker=false  
