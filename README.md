@@ -13,8 +13,8 @@ ro.qc.sdk.audio.fluencetype=fluence
 
 * Then adding these lines:
 
-persist.audio.fluence.voicerec=true
-persist.audio.fluence.speaker=false
+persist.audio.fluence.voicerec=true 
+persist.audio.fluence.speaker=false 
 use.voice.path.for.pcm.voip=true
 
 
