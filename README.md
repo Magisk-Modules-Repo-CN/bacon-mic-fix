@@ -1,5 +1,5 @@
 # OnePlus One (bacon) Mic Fix - Magisk Module
-Fixes in call Mic issues that have plagued some Bacon users by modifying build.prop.
+Fixes in call Mic issues that have plagued some Bacon users.
 
 This is a Magisk Module and you must be rooted with Magisk in order for it to work!
 
