@@ -15,12 +15,14 @@ For further information refer to: [Magisk](http://forum.xda-developers.com/apps/
 Uses the new tool "resetprop" to modify the following values found in build.prop:
 
 Removes:
-* ro.qc.sdk.audio.fluencetype=fluence
+
+	ro.qc.sdk.audio.fluencetype=fluence
 
 Adds:
-* persist.audio.fluence.voicerec=true  
-* persist.audio.fluence.speaker=false  
-* use.voice.path.for.pcm.voip=true
+
+	persist.audio.fluence.voicerec=true  
+	persist.audio.fluence.speaker=false  
+	use.voice.path.for.pcm.voip=true
 
 ## Updates
 #### v1
