@@ -4,5 +4,5 @@ version=v1
 versionCode=1
 author=Nomelas
 description=Fixes in call Mic issues that have plagued some Bacon users by modifying build.prop
-support=http://forum.xda-developers.com/showthread.php?t=3432382
+support=https://github.com/Nomelas/bacon-mic-fix
 donate=
