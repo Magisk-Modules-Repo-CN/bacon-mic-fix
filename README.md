@@ -4,7 +4,8 @@ Fixes in call Mic issues that have plagued some Bacon users.
 This is a Magisk Module and you must be rooted with Magisk in order for it to work!
 
 #### Note: This may not work for everyone!
-Tested on Sultanxda's CM13 rom: [Link](http://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-cyanogenmod-13-0-t3242700)
+
+Tested on my own device running Sultanxda's CM13 rom: [Link](http://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-cyanogenmod-13-0-t3242700)
 
 ## Prerequisites
 * OnePlus One device
