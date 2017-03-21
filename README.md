@@ -6,7 +6,6 @@ Tested on OnePlus One running both Android 6 and 7 Roms
 **Note: Originally designed for the OnePlus One but will work for some others. Your mileage will vary.**
 
 ## Prerequisites
-* Rooted Android Device
 * Magisk v11.6 or higher
 
 ## How it works
