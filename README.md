@@ -1,20 +1,15 @@
-# OnePlus One (bacon) Mic Fix - Magisk Module
-Fixes in call Mic issues that have plagued some Bacon users.
+# Android Mic Fix
+Fixes in call Mic issues for various Android devices.
 
-This is a Magisk Module and you must be rooted with Magisk in order for it to work!
+Tested on OnePlus One running both Android 6 and 7 Roms
 
-#### Note: This may not work for everyone!
-
-Tested on my own device running Sultanxda's CM13 rom: [Link](http://forum.xda-developers.com/oneplus-one/orig-development/rom-kernel-unofficial-cyanogenmod-13-0-t3242700)
+**Note: Originally designed for the OnePlus One but will work for some others. Your mileage will vary.**
 
 ## Prerequisites
-* OnePlus One device
-* Rooted with Magisk installed (v9 or higher)
-
-For further information refer to: [Magisk](http://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* Magisk v11.6 or higher
 
 ## How it works
-Uses the new tool "resetprop" to modify the following values found in build.prop:
+Uses the tool "resetprop" to modify the following values found in build.prop:
 
 Removes:
 
@@ -26,6 +21,15 @@ Adds:
 	persist.audio.fluence.speaker=false  
 	use.voice.path.for.pcm.voip=true
 
-## Updates
+## Links
+* [Magisk](http://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [Support](http://forum.xda-developers.com/apps/magisk/module-oneplus-one-bacon-mic-fix-t3503128)
+* [Github](https://github.com/Magisk-Modules-Repo/bacon-mic-fix)
+* [Donate](https://www.paypal.me/Nomelas)
+
+## Change Log 
+#### v2
+* Name changed from OnePlus One (bacon) Mic Fix
+* Updated template to v3
 #### v1
 * Initial Release
