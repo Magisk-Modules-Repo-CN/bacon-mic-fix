@@ -1,6 +1,8 @@
 # Android Mic Fix
 Fixes in call Mic issues for various Android devices.
 
+May also fix "Ok Google" detection.
+
 Tested on OnePlus One running both Android 6 and 7 Roms
 
 **Note: Originally designed for the OnePlus One but will work for some others. Your mileage will vary.**
