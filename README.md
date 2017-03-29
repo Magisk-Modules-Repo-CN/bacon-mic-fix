@@ -1,5 +1,5 @@
 # Android Mic Fix
-Fixes in call Mic issues for various Android devices.
+Fixes in call low volume mic issues for various Android devices.
 
 May also fix "Ok Google" detection.
 
