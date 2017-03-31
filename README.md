@@ -1,24 +1,19 @@
 # Android Mic Fix
 Fixes in call low volume mic issues for various Android devices.
 
-May also fix "Ok Google" detection.
+Can also fix "Ok Google" detection.
 
 Tested on OnePlus One running both Android 6 and 7 Roms
 
 **Note: Originally designed for the OnePlus One but will work for some others. Your mileage will vary.**
 
 ## Prerequisites
-* Magisk v11.6 or higher
+* Magisk v12.0 or higher
 
 ## How it works
-Uses the tool "resetprop" to modify the following values found in build.prop:
+Uses the tool "resetprop" to modify the default values found in build.prop to:
 
-Removes:
-
-	ro.qc.sdk.audio.fluencetype=fluence
-
-Adds:
-
+	ro.qc.sdk.audio.fluencetype=none
 	persist.audio.fluence.voicerec=true  
 	persist.audio.fluence.speaker=false  
 	use.voice.path.for.pcm.voip=true
@@ -30,6 +25,9 @@ Adds:
 * [Donate](https://www.paypal.me/Nomelas)
 
 ## Change Log 
+#### v3
+* Changed to now use PROPFILE
+* Updated to Magisk v12.0
 #### v2
 * Name changed from OnePlus One (bacon) Mic Fix
 * Updated template to v3

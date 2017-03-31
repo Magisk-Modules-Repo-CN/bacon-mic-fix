@@ -1,3 +1,8 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+
+ro.qc.sdk.audio.fluencetype=none
+persist.audio.fluence.voicerec=true
+persist.audio.fluence.speaker=false
+use.voice.path.for.pcm.voip=true
