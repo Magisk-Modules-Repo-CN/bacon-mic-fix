@@ -5,8 +5,3 @@ MODDIR=${0%/*}
 
 # This script will be executed in post-fs-data mode
 # More info in the main Magisk thread
-
-resetprop -n --delete ro.qc.sdk.audio.fluencetype
-resetprop -n persist.audio.fluence.voicerec true
-resetprop -n persist.audio.fluence.speaker false
-resetprop -n use.voice.path.for.pcm.voip true
