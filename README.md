@@ -11,13 +11,7 @@ Tested on OnePlus One running both Android 6 and 7 Roms
 * Magisk v11.6 or higher
 
 ## How it works
-Uses the tool "resetprop" to modify the following values found in build.prop:
-
-Removes:
-
-	ro.qc.sdk.audio.fluencetype=fluence
-
-Adds:
+Uses the tool "resetprop" to modify the default values found in build.prop to:
 
 	persist.audio.fluence.voicerec=true  
 	persist.audio.fluence.speaker=false  
