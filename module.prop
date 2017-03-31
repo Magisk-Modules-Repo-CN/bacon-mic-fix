@@ -3,5 +3,5 @@ name=Android Mic Fix
 version=v3
 versionCode=3
 author=Nomelas
-description=Fixes in call low volume mic issues for various Android devices & "Ok Google" detection.
+description=Fixes in call low volume mic issues & "Ok Google" detection for various Android devices.
 template=3
