@@ -25,6 +25,8 @@ Uses the tool "resetprop" to modify the default values found in build.prop to:
 * [Donate](https://www.paypal.me/Nomelas)
 
 ## Change Log 
+#### v3.1.1
+* Fixed Magisk Manager download bug. Should be good to download through the manager now.
 #### v3.1
 * Updated template to v4
 * Updated to Magisk v13.1
