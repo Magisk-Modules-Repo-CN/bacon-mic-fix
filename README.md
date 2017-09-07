@@ -8,7 +8,7 @@ Tested on OnePlus One running both Android 6 and 7 Roms
 **Note: Originally designed for the OnePlus One but will work for some others. Your mileage will vary.**
 
 ## Prerequisites
-* Magisk v13.1 or higher
+* Magisk v14.0 or higher
 
 ## How it works
 Uses the tool "resetprop" to modify the default values found in build.prop to:
@@ -25,6 +25,8 @@ Uses the tool "resetprop" to modify the default values found in build.prop to:
 * [Donate](https://www.paypal.me/Nomelas)
 
 ## Change Log 
+#### v3.2.2
+* Updated template to v1400
 #### v3.2.1
 * Fixed Template & cache bug
 #### v3.1.1
