@@ -1,7 +1,7 @@
 id=baconmicfix
 name=Android Mic Fix
 version=v3.2.2
-versionCode=7
+versionCode=8
 author=Nomelas
 description=Fixes in call low volume mic issues & "Ok Google" detection for various Android devices.
-template=1400
+minMagisk=1500
