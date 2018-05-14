@@ -19,6 +19,12 @@ Uses the tool "resetprop" to modify the default values found in build.prop to:
 ## Requirements
 * Magisk v16.0 or higher
 
+## Links
+* [Magisk](http://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [Support](http://forum.xda-developers.com/apps/magisk/module-oneplus-one-bacon-mic-fix-t3503128)
+* [Github](https://github.com/Magisk-Modules-Repo/bacon-mic-fix)
+* [Donate](https://www.paypal.me/Nomelas)
+
 ## Changelog 
 #### v3.2.3
 * Updated template to v1500
@@ -39,9 +45,3 @@ Uses the tool "resetprop" to modify the default values found in build.prop to:
 * Updated template to v3
 #### v1
 * Initial Release
-
-## Links
-* [Magisk](http://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
-* [Support](http://forum.xda-developers.com/apps/magisk/module-oneplus-one-bacon-mic-fix-t3503128)
-* [Github](https://github.com/Magisk-Modules-Repo/bacon-mic-fix)
-* [Donate](https://www.paypal.me/Nomelas)
