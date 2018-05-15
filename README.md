@@ -26,6 +26,8 @@ Uses the tool "resetprop" to modify the default values found in build.prop to:
 * [Donate](https://www.paypal.me/Nomelas)
 
 ## Changelog 
+#### v3.2.4
+* Bump to 3.2.4
 #### v3.2.3
 * Updated template to v1500
 #### v3.2.2
