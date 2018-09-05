@@ -1,31 +1,31 @@
-# Android Mic Fix
-## Description
-Fixes in call low volume mic issues for various Android devices.
+# Android Mic Fix(安卓麦克风修复)
+## 介绍
+修复Mic音量过小等多个问题。
 
-Can also fix "Ok Google" detection.
+以及 "Ok Google" 的识别问题。
 
-Tested on OnePlus One running both Android 6, 7 & 8 Roms
+该模块在 一加1 的 Android6/7/8 上测试可用，其他请自测。
 
-**Note: Originally designed for the OnePlus One but will work for some others. Your mileage will vary.**
+**注意: 该模块一开始就是为了 一加1 而设计，所以其他设备可能会有或多或少的问题。**
 
-### How it works
-Uses the tool "resetprop" to modify the default values found in build.prop to:
+### 这是怎么做到的？
+该模块通过使用 "resetprop" 这个工具来修改Build中的一些值:
 
 	ro.qc.sdk.audio.fluencetype=none
 	persist.audio.fluence.voicerec=true  
 	persist.audio.fluence.speaker=false  
 	use.voice.path.for.pcm.voip=true
 
-## Requirements
-* Magisk v16.0 or higher
+## 最低要求
+* Magisk v16.0 或 更高版本
 
-## Links
+## 链接
 * [Magisk](http://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
-* [Support](http://forum.xda-developers.com/apps/magisk/module-oneplus-one-bacon-mic-fix-t3503128)
+* [支持](http://forum.xda-developers.com/apps/magisk/module-oneplus-one-bacon-mic-fix-t3503128)
 * [Github](https://github.com/Magisk-Modules-Repo/bacon-mic-fix)
-* [Donate](https://www.paypal.me/Nomelas)
+* [捐赠](https://www.paypal.me/Nomelas)
 
-## Changelog 
+## 更新日志
 #### v3.2.4
 * Bump to 3.2.4
 #### v3.2.3
